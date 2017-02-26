@@ -1,0 +1,23 @@
+div {
+	background-color : blue;
+	border-style: solid;
+	border-width: 4px;
+	margin-left: 400px; 
+	margin-right: 500px;
+}
+
+#pantalla{
+	background-color : white;
+	border-style: solid;
+	border-width: 2px;
+	margin-left: 40px; 
+	margin-right: 40px; 
+}
+
+#cero{
+	margin-left: 100px; 
+}
+
+#nuevo{
+	margin-left: 150px; 
+}
